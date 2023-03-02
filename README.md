@@ -8,7 +8,7 @@ This project involved taking CSV files from a fictional company containing emplo
 
 The first task was to create an Entity Relationship Diagram to model the relationship between the various tables that would be created from the CSV files using QuickDBD. This was done by inspecting the data in the CSV files and determining which files had overlapping data, whether matching data from one file to another had a one to one, one to many or many to many relationship. With this, a relationship between the tables to be created from the respective files could be established, foreign keys and primary keys determined and the final diagram(ERD) produced:
 
-image.png
+![ERD](https://user-images.githubusercontent.com/119974799/222341362-7a19c781-f192-4a23-ac8d-40108313dd57.png)
 
 ## Step 2: Data Engineering
 
